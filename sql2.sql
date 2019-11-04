@@ -11,10 +11,10 @@ SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 --
--- Database: `w3schools`
+-- Database: `w3schools2`
 --
-CREATE DATABASE IF NOT EXISTS `w3schools` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `w3schools`;
+CREATE DATABASE IF NOT EXISTS `w3schools2` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `w3schools2`;
 
 -- --------------------------------------------------------
 
